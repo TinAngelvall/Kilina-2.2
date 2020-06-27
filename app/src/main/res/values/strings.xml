@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kilina-2.2</string>
+    <string name="head">Просмотр фото</string>
+    <string name="back">Назад</string>
+    <string name="along">Вперед</string>
+    <string name="output"></string>
+</resources>
