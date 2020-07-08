@@ -3,5 +3,5 @@
     <string name="head">Просмотр фото</string>
     <string name="back">Назад</string>
     <string name="along">Вперед</string>
-    <string name="output"></string>
+    <string name="output">http://myfile.org/ %1$d</string>
 </resources>
