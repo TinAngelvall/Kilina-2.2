@@ -42,15 +42,12 @@ public class MainActivity extends AppCompatActivity {
                 intent = new Intent(MainActivity.this, MainActivity.class);
                 startActivity(intent);
 
-                output();
-
             }
         });
         buttonBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent;
-                intent = new Intent(MainActivity.this, MainActivity.class);
+
                 finish();
             }
         });
